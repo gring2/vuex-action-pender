@@ -2,7 +2,7 @@
   "name": "vuex-pender",
   "version": "0.5",
   "description": "vuex-pender inspired by velopert/redux-pender",
-  "main": "index.js",
+  "main": "./lib/pender.js",
   "author": "gring2",
   "license": "MIT",
   "dependencies": {},

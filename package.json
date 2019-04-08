@@ -2,6 +2,7 @@
   "name": "vuex-pender",
   "version": "0.5",
   "description": "vuex-pender inspired by velopert/redux-pender",
+  "homepage": "https://github.com/gring2/vuex-action-pender",
   "main": "./lib/pender.js",
   "author": "gring2",
   "license": "MIT",

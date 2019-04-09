@@ -11,6 +11,11 @@
     "prepublish": "npm run build",
     "test": "jest"
   },
+  "keywords": [
+    "vuex",
+    "promise"
+  ],
+
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^24.0.11",

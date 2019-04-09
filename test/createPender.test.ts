@@ -1,4 +1,3 @@
-
 import { createPender } from '../src/pender';
 import Vuex, { Store, StoreOptions } from 'vuex';
 import Vue from 'vue';

@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/gring2/vuex-action-pender.svg?branch=master)](https://travis-ci.com/gring2/vuex-action-pender)
 # vuex-action-pender
 wrapper to write async vuex action simply and clean
 

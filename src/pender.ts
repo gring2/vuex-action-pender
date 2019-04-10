@@ -1,4 +1,4 @@
-import { Store } from 'vuex'
+import { Store,  } from 'vuex'
 
 type penderObjs = {
   action: (store: Store<any>, payload: any)=> Promise<any> | void
@@ -11,8 +11,7 @@ export const createPender = ({action, pending, success, fail}: penderObjs) => {
   const successF = success || defaultF
   const failF = fail || defaultF
   const pendingF = pending || defaultF
-
-    return (store: Store<any>, payload: any) => {
+    return (store: any, payload: any) => {
       try{
         let promist = action(store, payload)
         pendingF(store, payload)

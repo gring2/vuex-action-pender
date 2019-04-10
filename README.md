@@ -1,6 +1,9 @@
 # vuex-action-pender
 wrapper to write async vuex action simply and clean
 
+## How to install
+npm i vuex-pender
+
 ## How to use
 ```javascript
 import { createPender } from '../src/pender';

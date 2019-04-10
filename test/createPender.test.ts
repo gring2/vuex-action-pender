@@ -1,4 +1,4 @@
-import { createPender } from '../src/pender';
+import { createPender } from '../src';
 import Vuex, { Store, StoreOptions } from 'vuex';
 import Vue from 'vue';
 

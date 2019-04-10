@@ -1,6 +1,6 @@
 {
   "name": "vuex-pender",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "vuex-pender inspired by velopert/redux-pender",
   "homepage": "https://github.com/gring2/vuex-action-pender",
   "main": "./lib/index.js",
@@ -15,7 +15,6 @@
     "vuex",
     "promise"
   ],
-
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^24.0.11",
